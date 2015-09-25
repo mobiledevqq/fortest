@@ -1,2 +1,2 @@
 # fortest
-just for test.
+just fo test.
